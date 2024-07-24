@@ -1,8 +1,8 @@
 # Sankey App
 
-  app links: [add here]
+  app links: [(https://louisstanbrook.shinyapps.io/sankey_app_v3/)]
 
-  app repo links: [add here]
+  app repo links: [(https://github.com/L057278/Sankey_App_V3)]
 
 
   ## Introduction
